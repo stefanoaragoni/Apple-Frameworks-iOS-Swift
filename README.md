@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2023-11-28 at 14 40 35](https://github.com/stefanoaragoni/Apple-Frameworks-iOS-Swift/assets/69864405/37bccb25-1616-4b1c-a6de-94b290f2d1f2)# Apple-Frameworks-iOS-Swift
+# Apple-Frameworks-iOS-Swift
 
 iOS app that shows views inside a simple lazy grid. 
 
